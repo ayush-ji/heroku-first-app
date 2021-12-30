@@ -1,0 +1,11 @@
+{
+  "name": "heroku-app",
+  "version": "1.0.0",
+  "description": "this is my first app that i am testing to deploy on HEROKU",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "ayush-ji",
+  "license": "ISC"
+}
